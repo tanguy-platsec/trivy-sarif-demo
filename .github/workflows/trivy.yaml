@@ -17,3 +17,4 @@ jobs:
           image-ref: "docker.io/golang:1.18"
           format: table
           severity: HIGH,CRITICAL
+          security-checks: vuln
